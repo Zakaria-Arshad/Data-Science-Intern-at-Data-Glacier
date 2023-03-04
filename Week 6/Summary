@@ -1,0 +1,8 @@
+Week 6: Created Data Ingestion Pipeline. Used CSV file containing information about chess games. 
+
+Check computational efficiency of various methods to read large CSV files. Then, listed number of rows and columns.
+Then I validated the columns, making sure there were no whitespace.
+
+I then made a YAML file containing the columns, and validated they contained the right information.
+
+Finally, I wrote the file in pipe separated text file (|), in gz format.
